@@ -1,0 +1,60 @@
+h1 {
+  font-family: 'Press Start 2P', sans-serif;
+  color: white;
+  font-size: 1.5rem;
+}
+
+h2 {
+   font-family: 'Press Start 2P', sans-serif;
+   color: white;
+   font-size: 1rem;
+}
+
+.fa-clock-o:before {
+  font-size: 15px;
+}
+
+
+#header {
+  background-color: #6ab47b;
+  border-bottom: 5px solid #599a68;
+}
+
+#about {
+  background-color: #6ab47b;
+  padding-top: 300px;
+}
+.nav-link {
+
+  font-family: 'Press Start 2P', sans-serif;
+  color: white !important;
+  font-size: 1rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  padding-right: 25px;
+}
+
+.jumbotron {
+  padding-top: 70px;
+  padding-bottom:300px;
+  background: url('../img/bostonEdit.png');
+  background-size: cover;
+  background-position: 45% 65%;
+  border-radius: 0px !important;
+}
+
+#footer {
+  background-color: #ff9900;
+  border-top: 5px solid #cc7a00;
+}
+
+#about {
+  height: 400px;
+  background-color: #fff;
+}
+
+canvas {
+  width: 100% !important;
+  height: 550px !important;
+}
